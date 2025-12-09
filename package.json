@@ -1,0 +1,10 @@
+{
+  "name": "config-manager",
+  "version": "1.0.0",
+  "description": "Configuration management tool with environment variable support by L8ab Systems",
+  "main": "src/configmanager.js",
+  "scripts": {
+    "start": "node src/configmanager.js"
+  },
+  "dependencies": {}
+}
