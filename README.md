@@ -1,15 +1,5 @@
-# ⚙️ Config Manager
+# Config Manager
 
-Configuration management system.
+Centralized configuration management tool.
 
-## Features
-- Environment-based configs
-- Secret management
-- Version control
-- Rollback capabilities
-- Validation
-- Multi-format support
-
----
-
-**POWERED BY L8AB SYSTEMS** ⚡
+**POWERED BY L8AB SYSTEMS**
