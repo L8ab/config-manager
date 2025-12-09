@@ -1,2 +1,15 @@
-# config-manager
-Professional config-manager by L8ab Systems
+# ⚙️ Config Manager
+
+Configuration management system.
+
+## Features
+- Environment-based configs
+- Secret management
+- Version control
+- Rollback capabilities
+- Validation
+- Multi-format support
+
+---
+
+**POWERED BY L8AB SYSTEMS** ⚡
